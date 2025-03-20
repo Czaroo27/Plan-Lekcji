@@ -39,11 +39,11 @@ hours_per_week = {
     "Podstawy Programowania": 2,
     "J. Chiński": 2,
     "J. Hiszpański": 2,
-    "PAI": 2,
+    "PAI": 4,
     "HIT": 1,
     "Programowanie Obiektowe": 2,
     "Etyka": 1,
     "Godz. Wychowawcza": 1 
 }
 
-rooms = ["Sala 101", "Sala 102", "Lab Chemiczny"]
+rooms = ["Sala 530"]
