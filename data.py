@@ -10,7 +10,7 @@ teachers = {
     "Jakub Sawulski": ["Podstawy Programowania"],
     "Mateusz Kozłowski": ["Informatyka"],
     "Aleksandra Muzall": ["J. Chiński"],
-    "Jacek Bednarz": ["J. Angielski, J. Angielski zawodowy"],
+    "Jacek Bednarz": ["Angielski, J. Angielski zawodowy"],
     "Dagmara Bałabaniak": ["J. Polski"],
     "Maciej Zwierzchowski": ["WF"],
     "Maciej Błazucki": ["Grafika Komputerowa"],
