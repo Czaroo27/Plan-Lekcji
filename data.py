@@ -1,5 +1,5 @@
 
-lessons = ["Matematyka", "J. Chiński", "Etyka", "J. Angielski", "Godz. Wychowawcza", "J. Angielski zawodowy", "WF", "J. Polski", "Grafika Komputerowa", "Geografia", "Biologia", "Informatyka", "Podstawy Programowania", "Chemia", "HIT", "Programowanie Obiektowe", "Historia", "J. Hiszpański", "PAI", "Fizyka", ]
+subject = ["Matematyka", "J. Chiński", "Etyka", "J. Angielski", "Godz. Wychowawcza", "J. Angielski zawodowy", "WF", "J. Polski", "Grafika Komputerowa", "Geografia", "Biologia", "Informatyka", "Podstawy Programowania", "Chemia", "HIT", "Programowanie Obiektowe", "Historia", "J. Hiszpański", "PAI", "Fizyka", ]
 
 
 
